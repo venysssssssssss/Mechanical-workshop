@@ -1,0 +1,8 @@
+João;12345678900;joão@email.com;1234567890;Brasília;ABC1234
+Maria;09876543211;maria@email.com;0987654321;Pedra Ferrada;CBA4321
+José;45612378900;jose@email.com;1278903456;Centro;XYZ7890
+Joana;09843256711;joana@email.com;0943217890;Papagaio;ABC4321
+Pedro;78945612300;pedro@email.com;1287214365;Tomba;CBA1234
+Paula;23456789011;paula@email.com;1245678903;Matinha;ZYX7890
+Gabriela;78965456733;gabriela@email.com;8976541234;Mangabeira;DSA7890
+Ricardo;56743214578;ricardo@email.com;8954325678;Pampalona;QWE0987
